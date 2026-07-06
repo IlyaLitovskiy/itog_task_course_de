@@ -1,1 +1,3 @@
-# itog_task_course_de
+# Курс "Профессия Data Engineer с нуля до junior"
+
+## Итоговое задание 13-го блока
